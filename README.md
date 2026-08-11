@@ -62,9 +62,16 @@ The system includes a revenue-at-risk estimate to connect churn predictions with
 
 Python, Pandas, Scikit-learn, Streamlit
 
-## Run Project
+## Dashboard Preview
 
-Install dependencies:
+### Churn Prediction
+<img width="959" height="497" alt="Screenshot 2026-08-11 150220" src="https://github.com/user-attachments/assets/669dc16c-3971-434e-a80d-cc3aaf721358" />
 
-```bash
-pip install -r requirements.txt
+
+### Explainable AI
+<img width="879" height="313" alt="Screenshot 2026-08-11 150252" src="https://github.com/user-attachments/assets/e9ec22a0-a2fb-4759-9d5c-e67f39fb47a1" />
+
+
+### Retention Recommendations
+<img width="854" height="242" alt="Screenshot 2026-08-11 150304" src="https://github.com/user-attachments/assets/3e93cea2-26ac-4297-ac56-5e496bbfde9a" />
+
